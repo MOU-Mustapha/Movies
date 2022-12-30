@@ -138,4 +138,12 @@
   .nav-style {
     height: auto;
   }
+  .card-details {
+    display: flex;
+    flex-direction: column;
+    height: auto;
+  }
+  .card-text-story {
+    text-align: center;
+  }
 }
